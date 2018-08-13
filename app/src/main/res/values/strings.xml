@@ -3,5 +3,8 @@
 
     <string name="app_name">sketches</string>
     <string name="hello_world">Hello world!</string>
+    <string name="lorem_1">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</string>
+    <string name="lorem_2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</string>
+    <string name="lorem_3">Lorem ipsum dolor sit amet</string>
 
 </resources>
